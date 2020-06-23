@@ -34,7 +34,11 @@ class Database extends \CodeIgniter\Database\Config
 		'hostname' => 'localhost',
 		'username' => 'root',
 		'password' => '',
+<<<<<<< HEAD
 		'database' => 'facturacion',
+=======
+		'database' => 'test',
+>>>>>>> fdd3daaedff9bd1e86739c0b6f24fb429e22323c
 		'DBDriver' => 'MySQLi',
 		'DBPrefix' => '',
 		'pConnect' => false,
